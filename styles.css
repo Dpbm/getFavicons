@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 40px;
+}
+
+button {
+    padding: 10px;
+    border: 0;
+    outline: 0;
+    transition: 200ms;
+    border-radius: 10px;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #FBF2CF;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.favicons-list {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+img:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
