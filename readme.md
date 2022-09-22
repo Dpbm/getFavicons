@@ -4,6 +4,10 @@
 
 Download favicons from your tabs
 
+## Install
+
+go to [firefox addons page](https://addons.mozilla.org/en-US/firefox/addon/getfavicons/)
+
 ## Dev
 To run as dev, install [web-ext](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/) and then run:
 ```
