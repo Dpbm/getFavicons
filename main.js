@@ -1,4 +1,3 @@
-const button = document.getElementById('getFavicons');
 const list = document.getElementById('faviconsList');
 
 function createChild(link, title) {
@@ -29,8 +28,4 @@ async function getFavicons() {
   });
 }
 
-
-button.addEventListener('click', getFavicons);
-
-
-
+document.addEventListener("DOMContentLoaded", getFavicons);
