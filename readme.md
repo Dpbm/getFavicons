@@ -1,6 +1,6 @@
 # Get Favicons
 
-![Screenshot](./assets/extension.png)
+![Screenshot](./assets/screenshot.png)
 
 Download favicons from your tabs
 
